@@ -1,0 +1,7 @@
+
+
+# Prolog
+*.pl~
+
+# Ignore
+example/*
